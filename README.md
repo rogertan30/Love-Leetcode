@@ -1,5 +1,7 @@
-# 介绍
-用代码编译或服务器重启的零碎时间，尝试解答网上常见的一些面试题。
+# 面试宝典
+
+## 介绍
+我发现，平时代码编译或服务器重启的零碎时间都没有好好被利用，所以尝试利用这写临散时间，解答网上常见的一些面试题。
 
 ### 1. @property 后面可以有哪些修饰符？
 atomic, nonatomic, readonly, readwrite, assign, strong, weak, copy, assign, retain, copy, setter=, getter=
