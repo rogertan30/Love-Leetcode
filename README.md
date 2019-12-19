@@ -7,3 +7,5 @@
 [小码哥《恋上数据结构与算法》笔记（三）：双向链表](https://juejin.im/post/5df9c8256fb9a016214cd3de)
 
 [小码哥《恋上数据结构与算法》笔记（四）：循环链表](https://juejin.im/post/5dfad5936fb9a0160b6381df)
+
+[小码哥《恋上数据结构与算法》笔记（五）：栈](https://juejin.im/post/5dfb12fd518825122e0a85bd)
