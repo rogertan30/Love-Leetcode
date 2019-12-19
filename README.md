@@ -9,3 +9,5 @@
 [小码哥《恋上数据结构与算法》笔记（四）：循环链表](https://juejin.im/post/5dfad5936fb9a0160b6381df)
 
 [小码哥《恋上数据结构与算法》笔记（五）：栈](https://juejin.im/post/5dfb12fd518825122e0a85bd)
+
+[小码哥《恋上数据结构与算法》笔记（六）：队列](https://juejin.im/post/5dfb1fc4e51d4557f26e601b)
