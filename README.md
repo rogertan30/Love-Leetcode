@@ -18,3 +18,7 @@
 [小码哥《恋上数据结构与算法》笔记（七）：二叉树](https://juejin.im/post/5dfb4f07f265da33985632f9)
 
 [小码哥《恋上数据结构与算法》笔记（八）：二叉搜索树](https://juejin.im/post/5dfc735ee51d45582d3405de)
+
+[小码哥《恋上数据结构与算法》笔记（九）：平衡二叉搜索树（AVL）](https://juejin.im/post/5e057217f265da33d912ecfe)
+
+[小码哥《恋上数据结构与算法》笔记（十）：B树](https://juejin.im/post/5e0aedb8f265da5d5e2419a1)
