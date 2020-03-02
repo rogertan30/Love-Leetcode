@@ -26,3 +26,5 @@
 [小码哥《恋上数据结构与算法》笔记（十一）：红黑树](https://juejin.im/post/5e0da754f265da5d2202025a)
 
 [小码哥《恋上数据结构与算法》笔记（十二）：集合（Set）与映射（Map）](https://juejin.im/post/5e4d48e2e51d4526c80e987b)
+
+[小码哥《恋上数据结构与算法》笔记（十二）：哈希表（Hash Table）](https://juejin.im/post/5e53d8616fb9a07c820fa9fa)
