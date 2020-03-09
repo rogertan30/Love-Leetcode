@@ -29,5 +29,5 @@
 
 [小码哥《恋上数据结构与算法》笔记（十二）：哈希表（Hash Table）](https://juejin.im/post/5e53d8616fb9a07c820fa9fa)
 
-[小码哥《恋上数据结构与算法》笔记（十三）：）]()
+[小码哥《恋上数据结构与算法》笔记（十三）：二叉堆（Heap）](https://juejin.im/post/5e650cfb6fb9a07cb96afbe7)
 
