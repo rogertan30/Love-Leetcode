@@ -31,3 +31,4 @@
 
 [小码哥《恋上数据结构与算法》笔记（十三）：二叉堆（Heap）](https://juejin.im/post/5e650cfb6fb9a07cb96afbe7)
 
+[小码哥《恋上数据结构与算法》笔记（十四）：优先级队列（Priority Queue）](https://juejin.im/post/5e661e1bf265da5769711bae)
