@@ -42,3 +42,5 @@
 [小码哥《恋上数据结构与算法第二季》笔记（一）：排序](https://juejin.im/post/5e69f267f265da571c4cac38)
 
 [小码哥《恋上数据结构与算法第二季》笔记（二）：插入排序](https://juejin.im/post/5e6cc19f6fb9a07c8e6a49d7)
+
+[小码哥《恋上数据结构与算法第二季》笔记（三）：归并排序（Merge Sort）](https://juejin.im/post/5e6e41276fb9a07cce74fcb7)
