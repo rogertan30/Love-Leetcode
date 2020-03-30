@@ -45,4 +45,4 @@
 
 [小码哥《恋上数据结构与算法第二季》笔记（三）：归并排序（Merge Sort）](https://juejin.im/post/5e6e41276fb9a07cce74fcb7)
 
-[小码哥《恋上数据结构与算法第二季》笔记（三）：快速排序（Quick Sort）](https://juejin.im/post/5e70b4496fb9a07cb52be28b)
+[小码哥《恋上数据结构与算法第二季》笔记（四）：快速排序（Quick Sort）](https://juejin.im/post/5e70b4496fb9a07cb52be28b)
