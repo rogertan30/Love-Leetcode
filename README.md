@@ -52,3 +52,5 @@
 [小码哥《恋上数据结构与算法第二季》笔记（六）：计数排序（Counting Sort）](https://juejin.im/post/5e846ba4e51d4546c62f886e)
 
 [小码哥《恋上数据结构与算法第二季》笔记（七）：基数排序（Radix Sort）](https://juejin.im/post/5e86de6ae51d45470d52721b)
+
+[小码哥《恋上数据结构与算法第二季》笔记（八）：桶排序（Bucket Sort）](https://juejin.im/post/5e86f3b5f265da480a1aa69f)
