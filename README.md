@@ -54,3 +54,7 @@
 [小码哥《恋上数据结构与算法第二季》笔记（七）：基数排序（Radix Sort）](https://juejin.im/post/5e86de6ae51d45470d52721b)
 
 [小码哥《恋上数据结构与算法第二季》笔记（八）：桶排序（Bucket Sort）](https://juejin.im/post/5e86f3b5f265da480a1aa69f)
+
+### 第三季
+
+[小码哥《恋上数据结构与算法第三季》笔记（一）：头条、美团、滴滴等面试题01](https://juejin.im/post/5e8d7608518825736d2792f0)
